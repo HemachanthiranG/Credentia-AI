@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+celery
+redis
+websockets
+psycopg2-binary
+pymongo
+langgraph
+langchain
+langchain-groq
+groq
+confluent-kafka
+motor

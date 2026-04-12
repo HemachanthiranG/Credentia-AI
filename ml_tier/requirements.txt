@@ -1,0 +1,9 @@
+torch
+xgboost
+shap
+scikit-learn
+pandas
+numpy
+mlflow
+prophet
+faiss-cpu
